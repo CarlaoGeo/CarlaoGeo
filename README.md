@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CarlaoGeo
 - 👀 I’m interested in games
 - 🌱 I’m currently learning GML (Gamemaker Language)
+- 🌱 I’m currently studying analysis and systems development
 
 
 <!---
